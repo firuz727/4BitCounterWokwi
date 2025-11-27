@@ -8,12 +8,11 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
-
-Explain how your project works
+Project will count up to 15
 
 ## How to test
 
-Explain how to use your project
+You must click the clock for the project to count up by 1
 
 ## External hardware
 
